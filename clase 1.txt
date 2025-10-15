@@ -1,0 +1,20 @@
+###################### NO EJECUTAR EN EL TERMINAL ########################
+#formato seguro de instalacion de libreria en mi caso
+import sys
+!{sys.executable} -m pip install openpyxl
+
+#otro ejemplo
+import pandas as pd
+print(pd._version_)
+
+
+##################################
+Realizo algo en mis documentos o carpetas de mi pc
+luego para que se suba al repositorio: 
+git init --> para entrar a mi repositorio
+git global config --global user.email "20160155@gmail.com" --> registro gmail
+git global config --global user.name "mariano-juan" --> nombre de usuario
+git git remote add origin https://github.com/mariano-juan/practicandoGIT.git -->para ingrear en este caso a mi nube (practicandoGIT)
+git add . --> guarda lo que relice
+git commit -m "pongo lo que hice"  ---> se pone lo que hice en el ultimo ajuste
+git push -u origin main ---> se actualiza Git-Hub

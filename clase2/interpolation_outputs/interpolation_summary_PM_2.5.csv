@@ -1,0 +1,3 @@
+station,pollutant,total_rows,valid_before,missing_before,missing_after_interp,filled_by_interp,pct_filled_by_interp,missing_after_ffill,filled_by_interp_and_ffill,pct_filled_by_interp_and_ffill,out_csv
+Campo Marte,PM 2.5,1488,1485,3,0,3,100.0,0,3,100.0,interpolation_outputs\Campo_Marte_PM_2.5_interpolation.csv
+San Borja,PM 2.5,1465,1456,9,0,9,100.0,0,9,100.0,interpolation_outputs\San_Borja_PM_2.5_interpolation.csv
