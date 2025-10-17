@@ -1,0 +1,11 @@
+min 49
+GOOGLE DEEPMIN 
+GRAPHCAST
+SISTEMAS DE ALERTA TEMPRANA PARA INUNDACIONES EN INDIA Y BANGLADESH (BUSCAR METODOS)
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mariano-juan/DESCARGA_DE_DATOS_PISCO_PARA_HIDROLOGIA-.git
+git push -u origin main
